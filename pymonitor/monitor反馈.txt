@@ -1,0 +1,14 @@
+账号：wangqiaoxiu   密码：128340woaiziyou
+@王翘秀反馈
+问题：monitor不能持续投递任务
+描述：monitor stat  -p hg38_p10_1 -m 3 | grep fail显示有任务失败，但手动查看任务有.sign文件，.e文件结尾也有结束标志。手动运行crontab下两条命令也没用。
+解决：如果手动查看任务已经完成（.sign, .e），但monitor显示任务失败，说明monitor误判（暂时没有搞清楚原因），导致后续任务无法投递。此时，可以删掉数据库，或者将数据库移到其他地方，如mkdir oldDB，mv hg38_p7_3_1.db* oldDB/。然后重投，monitor taskmonitor -p hg38_p7_3_1  -q bc.q -P HUMfxfX -i allDependent.txt，就会看到原来误判的任务已经恢复了。（注意：任何情况下不要随便使用 monitor 的 removeproject 功能）
+
+jiewencai	hi0701@bgi
+问题：crontab坏了
+
+更换monitor运行节点方法：
+/ifs4/BC_PUB/biosoft/pipeline/Package/pymonitor-1.1/monitor cron -m 5
+在当前节点添加crontab
+/ifs4/BC_PUB/biosoft/pipeline/Package/pymonitor-1.1/monitor cron -m 3
+

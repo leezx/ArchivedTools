@@ -1,0 +1,82 @@
+1.库不能随便导入，如果版本太老的话，使用的那个库会报错，如ZODB（环境变量） export
+2.改个名字就能解决折腾一晚上的问题
+3.最好不要改别人的代码，因为他们写的很烂。
+4.搞一下专门测试的模块
+5.逐点追踪
+
+错误一：在局部函数里读取全局参数？？？？谁错了？？？
+错误二：list滥用
+错误三：模块的独立性很差，没有理解面向对象的思想
+错误四：数据库问题，bug，lock，没有办法的bug，除非换工具
+
+问题：
+monitor在什么时候更新数据库？
+
+#------------------------
+赤川的问题：
+1.fseek，python3不能在非b模式下使用负数，decode一下就解决
+2.可以投，但是不能自动识别之前的cron，得手动搞
+3.模块问题
+4.python版本问题
+#------------------------
+一、必须先删掉之前的crontab
+二、要在自己创建crontab
+#------------------------
+一、有的人不能使用ZODB，是环境配置的问题吗？搞得我好烦躁！！！！！
+Andan2   BGI@work   192.168.3.4
+/share/stor-01/zebra-AUO/04.RNA/Resequence/PE100_RESEQ/CGqRNA121-122/run/pipeline/result
+
+Python 解析配置模块之ConfigParser详解
+http://www.pythontab.com/html/2014/pythonhexinbiancheng_1120/919.html
+Python模块学习——optparse
+http://www.cnblogs.com/captain_jack/archive/2011/01/11/1933366.html
+ZODB 入门 数据库
+https://www.ibm.com/developerworks/cn/aix/library/au-zodb/
+ZODB Book
+http://zodb.readthedocs.io/en/latest/api.html 
+
+Python 模块学习 logging(1)
+http://www.cnblogs.com/BeginMan/p/3328671.html
+
+Python 模块学习 logging(2)
+http://www.cnblogs.com/BeginMan/p/3335110.html
+
+python文件打开方式详解——a、a+、r+、w+区别
+http://blog.csdn.net/ztf312/article/details/47259805
+
+如何方便地给Python环境注册新类库
+http://www.elias.cn/Python/PythonPath
+
+argparse — Parser for command-line options, arguments and sub-commands
+https://docs.python.org/3.5/library/argparse.html#module-argparse
+
+python命令行解析模块optionparser
+http://blog.csdn.net/azhao_dn/article/details/6921441
+
+pip --upgrade批量更新过期的python库
+http://www.cnblogs.com/luckjun/p/4958338.html
+
+通过try、except和else的使用来使Python程序更加“强壮”
+http://www.cnblogs.com/lordage/p/5722086.html
+
+crontab 定时任务
+http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/crontab.html
+
+BTrees Documentation
+http://pythonhosted.org/BTrees/
+
+Error locking file /ifs4/BC_RD/PROJECT/RD_LZX_correction/prj/pymonitor/test1.db.lock; pid=7825
+
+python的 import和from import区别
+http://www.zuimoban.com/jiaocheng/python/3611.html
+
+can't 的原因 名字不对， 同一个名字不能用多次 我真是草拟吗
+
+python import和from import
+http://www.jianshu.com/p/c82429550dca
+
+DRMAA Python
+http://drmaa-python.readthedocs.io/en/latest/tutorials.html
+
+zc.lockfile 1.2.1
+https://pypi.python.org/pypi/zc.lockfile?
