@@ -1,0 +1,36 @@
+CONTAINER ID        IMAGE                                                                     COMMAND                CREATED              STATUS              PORTS               NAMES
+499cb893f317        4ab74bcec55d280c95a402219cd2c4930ebe2aa6a874d630515968a6b8d7bc96:latest   "/sbin/my_init --qui   About a minute ago   Up About a minute                       berserk_bohr           
+9128e78f2728        bamstat:1.0                                                               "/bin/bash"            20 minutes ago       Up 20 minutes                           cranky_wilson          
+b8df4f9d2b0a        ffe7f1b4939b953a7dd207416ff401614061449c85d4838e85a0128673627072:latest   "/sbin/my_init --qui   36 hours ago         Up 36 hours                             silly_mayer            
+2f3c879211c9        e72dc04a4abf2def444c1dfc67ea7e0fbec2be50e62cf9dc6f0af29f592585a8:latest   "/sbin/my_init --qui   42 hours ago         Up 42 hours                             desperate_mayer        
+4bf31eb452c0        4e7ba13a7ed3d9dc17ec0e073b635d59ca2afa52df9ebcdbf805ef816cd105f1:latest   "/sbin/my_init --qui   45 hours ago         Up 45 hours                             high_kirch5            
+fae89f13a656        b0b24babaaf5da73073b80b1d5b36957b5403c4bb1cce0e1a90d05786d7c9d46:latest   "/sbin/my_init --qui   3 days ago           Up 3 days                               suspicious_wilson5     
+9eba816ca120        58cd054ceaf89145dc34d888d3b08e5c700a79a692fc5d620767e3d75f710fa0:latest   "/sbin/my_init --qui   8 days ago           Up 8 days                               furious_fermi          
+319b7efba6b6        1f084ed0120e89d0347cf2375e1f188314dd1a75ecdb34e610ea55f2abcda3f9:latest   "/sbin/my_init --qui   9 days ago           Up 9 days                               mad_yalow3             
+34353832cd65        f65423fd1579737daeeeb4b262b2ff99644322435d5376f813ace30a0c1022f7:latest   "/sbin/my_init --qui   10 days ago          Up 10 days                              determined_yalow2      
+ea7b59a22981        dcb81b9813e42c880b6510d772cbfb4c69029d23cab5869d7a40676e40461bad:latest   "/sbin/my_init --qui   13 days ago          Up 13 days                              drunk_fermat           
+7dd1bf4a38e9        608fd5cbe958583e54013ee088d282e1c25a7a0af0109958bb1a92ffd7506c7f:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              pensive_mcclintock     
+391d8df96e2f        b3b67dd5d62ce34c50a561e22b7e26b468069062f73fd6c8fef295ced8bf1641:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              berserk_einstein       
+7743249987e7        d8f67fb0591872d32ff81a4119135679b19cd524bd90787ace23cc94750366ca:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              prickly_cori9          
+1f3ebe273d6c        4da9fd72ae82b479c08f27369bacee6816dca84bf1503d2205e06ec2b727e548:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              goofy_yalow            
+0ecd907b8673        f5b593f2a13dc4d18aa760f34f819ef125c69153444f3ef0b812b94a0b92d66b:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              agitated_blackwell     
+3f212e5ff7e2        85523da4178395daf4a9be076802af957b09e7da62ccc3fbe1fa1a1037b6c478:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              furious_thompson       
+097b04cb1ea1        b5636c51828fa60a3a6c5f0ca95f6808d00345d32bd8bc55760a00d150905bd5:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              agitated_pike          
+dfc3b8c361db        b5636c51828fa60a3a6c5f0ca95f6808d00345d32bd8bc55760a00d150905bd5:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              backstabbing_kirch     
+b980c2946c9e        70e28aa4046fb5983decfa2ab01fadaf4f90e1d51b488f2ec8b849700cbf0db4:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              jolly_fermat           
+9a10ac68db61        787a0d624b2faac470c0edd2b8d79bf91f0acaee1280944525d7af5d8ae5e1e8:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              cranky_curie           
+dbe22f0ef5ee        1b29fd438c4356613853c8b34c143f1f1c160cb33191928957ae2a1aa78cfab7:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              compassionate_swartz   
+5837aa2512e2        da605a7bd0c32bc035aad0d3d54556384338bca2f01524f1fa2c57b2813a0513:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              loving_mestorf         
+701faae20c2a        fc916a358095d5ae372f06cc2d49d7ff9fd9938d2120be576dab085cc2d02842:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              hungry_babbage         
+e015057be629        3bacd41466e23fe25c1d8c31eae2c85bf3b2d81bb12e41a934dec507fcc21189:latest   "/sbin/my_init --qui   2 weeks ago          Up 2 weeks                              fervent_sinoussi       
+9a70ee771dda        34854e87c14c589ba5e37e3d17d60bbd32e3f50799cfcddcc5e58c565eefb633:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              jovial_thompson        
+19d958d2724b        f534557cd859edf18c436ee506cd58d873de94c9fd8b5b7574988b6a937e4109:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              jolly_hopper           
+6d97ec7bc003        a257f43d901e0e9f1b236fe4b50b5ca21ca796263c25a0fedc942ac943f4b43b:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              boring_wilson3         
+5c7af2145dd3        d1053a7d8d520b3f4837575ab4e8cef66671d0399aebc79bdba57616352ba465:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              happy_lalande          
+d4b8a810bad0        a257f43d901e0e9f1b236fe4b50b5ca21ca796263c25a0fedc942ac943f4b43b:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              dreamy_archimedes      
+4a91620e40ab        2cbfe79c3db3543a85e5046628d6bff38399478170944fb46a6e4c269490384f:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              sad_blackwell          
+9b71adf2a38a        fa8e5bdcad84bd654bcbe244d1637ff01e894a81622506f1bdd63df54d12853d:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              lonely_bartik1         
+e659fafe142e        7b57baf2fb040b9bd451ae1327b7f5baf6ff019d58d27803d5d2d9691851d06c:latest   "/sbin/my_init --qui   3 weeks ago          Up 3 weeks                              hungry_kirch           
+74cda15354e0        ef165764961657e2cc474e073fd83a9e3024cccd98e251d5b2e88791a4acfbc8:latest   "/sbin/my_init --qui   5 weeks ago          Up 5 weeks                              stupefied_pike         
+1977b6cbc68d        68038d8b15d5420a881385bf6f505a45e8816d431d98b57d0b9bd1f5ecb3d316:latest   "/sbin/my_init --qui   5 weeks ago          Up 5 weeks                              stoic_banach           
+970d9dbafe7a        4be10f23afa1fe15c97e32a75e4209a9f46e518ca51aecd6b264ddfe315eb8d4:latest   "/sbin/my_init --qui   5 weeks ago          Up 5 weeks                              stupefied_sinoussi     
