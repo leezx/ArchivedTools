@@ -1,0 +1,1 @@
+~/.aspera/connect/bin/ascp -i /home/lizhixin/.aspera/connect/aspera.openssh -QT -l5m -k1 -d /home/lizhixin/project/scRNA-seq/rawData/SAG_HCO.upload.ncbi/geo_submission_2020Mar30 subasp@upload.ncbi.nlm.nih.gov:uploads/zxli.hku@gmail.com_nYYKcqx0

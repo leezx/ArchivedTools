@@ -1,0 +1,14 @@
+Partial Completion: 47459933K bytes transferred in 79923 seconds
+ (4864K bits/sec), in 245 files, 6 directories; 229 files failed.
+
+Session Stop  (Error: Disk write failed (server), Disk write failed)
+Partial Completion: 45401734K bytes transferred in 76437 seconds
+ (4865K bits/sec), in 320 files, 6 directories; 288 files failed; 16 files skipped or empty.
+
+Session Stop  (Error: Disk write failed (server), Disk write failed)
+Partial Completion: 46064086K bytes transferred in 77551 seconds
+ (4865K bits/sec), in 336 files, 6 directories; 288 files failed; 32 files skipped or empty.
+
+Session Stop  (Error: Disk write failed (server), Disk write failed)
+Completed: 520206713K bytes transferred in 426838 seconds
+ (9983K bits/sec), in 7800 files, 6 directories; 48 files skipped or empty.
