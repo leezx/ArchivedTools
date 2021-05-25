@@ -17,8 +17,7 @@ vi read_2
 # %s/_1\./_2\./g
 paste sample.name read_1 read_2 -d',' > all.sample.csv
 # test
-# cat all.5.sample.csv | cut -f2 -d, | xargs ls | grep such
-#cat Feb_2018_all.sample.csv Mar_2018_all.sample.csv > all.sample.csv
+# cat all.sample.csv | cut -f2 -d, | xargs ls | grep such
 
 cd ~/project/scRNA-seq/rawData/Oct_2018/
 mkdir analysis_TPM
