@@ -1,9 +1,13 @@
+# go to the fastq folder
 cd /home/lizhixin/project/scRNA-seq/rawData/Oct_2018/NganE_scRNA_SS-180801-04a/primary_seq
+# if no, create your own softlink
 
+# get absolute path of fastq
 ls *_1.fastq.gz | sed "s:^:`pwd`/: " > ../read_1
 cd ..
 cp read_1 read_2
 
+# get sample name
 less read_1 | cut -f10 -d'/' > sample.name
 less read_1 | cut -f9-10 -d'/' > sample.name
 vi sample.name
@@ -11,6 +15,7 @@ vi sample.name
 # :%s/foo/bar/g
 # %s/_1\.fastq\.gz//g
 
+# no better way
 vi read_2
 # don't use read_2, disorder!!!
 # notepad++ _1. ==> _2.
