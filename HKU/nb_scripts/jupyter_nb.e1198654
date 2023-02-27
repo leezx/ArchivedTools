@@ -1,0 +1,126 @@
+[W 12:33:25.603 NotebookApp] Collisions detected in /home/lizhixin/.jupyter/jupyter_notebook_config.py and /home/lizhixin/.jupyter/jupyter_notebook_config.json config files. /home/lizhixin/.jupyter/jupyter_notebook_config.json has higher priority: {
+      "NotebookApp": {
+        "password": "'411360309' ignored, using 'sha1:81cd9648ba81:dc8aa8f26f2a7bf5314e00bdfbfc930c67b32690'"
+      }
+    }
+[I 12:33:27.269 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 12:33:27.271 NotebookApp] Serving notebooks from local directory: /home/lizhixin
+[I 12:33:27.271 NotebookApp] Jupyter Notebook 6.4.12 is running at:
+[I 12:33:27.271 NotebookApp] http://hpch02:17435/
+[I 12:33:27.272 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 16:25:22.250 NotebookApp] Notebook project/Data_center/analysis/ellyLab/human/Human-Organoid/Comparison_public_all/main_integration_PHOX2Bpos.ipynb is not trusted
+[I 16:25:52.516 NotebookApp] Kernel started: 030b35e2-c7a3-4a1d-b746-8b8ecc04a900, name: ir41
+[I 17:40:33.858 NotebookApp] Starting buffering for 030b35e2-c7a3-4a1d-b746-8b8ecc04a900:49312cbebbeb4cdf8e7be3cb5bf124ec
+[W 18:32:33.854 NotebookApp] Notebook project/Data_center/analysis/HBSO_7Ala_Elly_2022_Jul/Seurat_integration_all.ipynb is not trusted
+[I 18:33:23.012 NotebookApp] Kernel started: 6dcb0e24-9db3-4f5f-8f7d-18adeeac5cc4, name: ir41
+[I 18:35:51.485 NotebookApp] Starting buffering for 6dcb0e24-9db3-4f5f-8f7d-18adeeac5cc4:9ce977a7386f4389a3af498afa7b4c97
+[W 18:35:53.750 NotebookApp] Notebook project/Data_center/analysis/ellyLab/human/Human-Organoid/Comparison_public_all/main_integration_PHOX2Bpos.ipynb is not trusted
+[I 18:46:49.796 NotebookApp] Starting buffering for 030b35e2-c7a3-4a1d-b746-8b8ecc04a900:d04da8110c61414d8ee9a0fe4d70ff8a
+[W 21:39:13.065 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:39:15.667 NotebookApp] Kernel started: 11a9c659-c9b9-47c0-80b4-25eade3f9656, name: ir41
+[I 21:41:18.562 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:41:18.571 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:43:20.222 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:43:20.228 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:45:21.800 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:45:21.807 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:47:18.405 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:47:18.417 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:49:18.149 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:49:18.159 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:53:18.161 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:53:18.173 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:55:18.322 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:55:18.325 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+**************************************************|
+[I 21:57:17.982 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:57:17.994 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 21:59:18.187 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 21:59:18.193 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+0%   10   20   30   40   50   60   70   80   90   100%
+[----|----|----|----|----|----|----|----|----|----|
+********************************************[I 22:01:20.493 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 22:01:20.503 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+******|
+[I 22:02:09.127 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 22:02:09.130 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 22:05:18.042 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 22:05:18.048 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 22:07:17.775 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 22:07:17.780 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 22:08:01.192 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 22:08:01.196 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 22:09:34.338 NotebookApp] Starting buffering for 11a9c659-c9b9-47c0-80b4-25eade3f9656:3b4e5640705749e5b7700827446029fa
+[I 10:52:24.373 NotebookApp] Kernel shutdown: 030b35e2-c7a3-4a1d-b746-8b8ecc04a900
+[I 10:52:25.954 NotebookApp] Kernel shutdown: 6dcb0e24-9db3-4f5f-8f7d-18adeeac5cc4
+[W 10:52:30.159 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 10:56:37.706 NotebookApp] Saving file at /project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb
+[W 10:56:37.710 NotebookApp] Notebook project/Data_center/analysis/Vcl_spatial_Elly_2022_Jul/Seurat-visium.ipynb is not trusted
+[I 11:05:39.553 NotebookApp] Starting buffering for 11a9c659-c9b9-47c0-80b4-25eade3f9656:d6d32b195b8f4cfd8d10742882b18526
+[I 11:05:55.715 NotebookApp] Kernel shutdown: 11a9c659-c9b9-47c0-80b4-25eade3f9656
+[W 17:23:59.808 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb is not trusted
+[I 17:24:16.845 NotebookApp] Kernel started: 9f4e517e-9cc5-4c91-a8ac-977421e0cae3, name: ir41
+[I 17:30:19.707 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb
+[W 17:30:19.727 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb is not trusted
+[I 17:32:21.644 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb
+[W 17:32:21.654 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb is not trusted
+[I 17:34:21.144 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb
+[W 17:34:21.160 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb is not trusted
+[I 17:36:20.343 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb
+[W 17:36:20.350 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/1.Mixscape.ipynb is not trusted
+[W 17:38:14.092 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:38:29.185 NotebookApp] Kernel started: de451a8f-abdb-43df-8b99-04bac80ce741, name: ir41
+[I 17:40:31.301 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:40:31.308 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:42:30.369 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:42:30.376 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:44:31.563 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:44:31.570 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:46:30.896 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:46:30.908 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:48:31.061 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:48:31.068 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:50:30.145 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:50:30.154 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:52:32.433 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:52:32.445 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:54:30.482 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:54:30.489 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 17:58:30.164 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 17:58:30.172 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:00:30.148 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:00:30.155 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:02:30.794 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:02:30.806 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:04:29.967 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:04:29.975 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:06:30.037 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:06:30.044 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:08:29.945 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:08:29.952 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:10:30.143 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:10:30.162 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:12:30.380 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:12:30.384 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:14:30.253 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:14:30.258 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:16:30.186 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:16:30.191 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:18:30.595 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:18:30.601 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[I 18:32:31.044 NotebookApp] Saving file at /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb
+[W 18:32:31.049 NotebookApp] Notebook project/Data_center/analysis/Perturb_seq_Sethi/cellranger/2.DEG_pathway.ipynb is not trusted
+[W 18:32:38.211 NotebookApp] delete /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/Figures/Control vs CTNNB1volcano.plot.pdf
+[W 18:32:38.233 NotebookApp] delete /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/Figures/Control vs SOX9volcano.plot.pdf
+[W 18:32:38.245 NotebookApp] delete /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/Figures/Control vs SMARCB1volcano.plot.pdf
+[W 18:32:38.283 NotebookApp] delete /project/Data_center/analysis/Perturb_seq_Sethi/cellranger/Figures/Control vs SMARCA4volcano.plot.pdf
+[I 18:34:09.566 NotebookApp] Starting buffering for 9f4e517e-9cc5-4c91-a8ac-977421e0cae3:42604d9c4f4f4f5680789bf9d130d9b7
+[I 18:34:15.380 NotebookApp] Starting buffering for de451a8f-abdb-43df-8b99-04bac80ce741:0a82f2f096244d6ba9b112fde515505a
+=>> PBS: job killed: walltime 302410 exceeded limit 302400
+[C 00:33:26.073 NotebookApp] received signal 15, stopping
+[I 00:33:26.084 NotebookApp] Shutting down 2 kernels
+[I 00:33:26.088 NotebookApp] Kernel shutdown: 9f4e517e-9cc5-4c91-a8ac-977421e0cae3
+[I 00:33:27.330 NotebookApp] Kernel shutdown: de451a8f-abdb-43df-8b99-04bac80ce741
+[I 00:33:27.442 NotebookApp] Shutting down 0 terminals

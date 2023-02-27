@@ -1,0 +1,6 @@
+qsub -I -q legacy -l nodes=1:ppn=12,walltime=96:00:00,mem=45gb
+qsub -I -q large -l nodes=1:ppn=12,walltime=84:00:00,mem=120gb
+
+# qstat -f 683710.omics | grep vnode
+ssh -N -L 17435:hpch03:17435 lizhixin@hpcf2.cgs.hku.hk
+

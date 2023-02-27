@@ -1,0 +1,37 @@
+
+Command to create ssh tunnel:
+ssh -N -f -L 17435:hpch02:17435 lizhixin@hpcf2.cgs.hku.hk
+
+Use a Browser on your local machine to go to:
+localhost:17435  (prefix w/ https:// if using password)
+
+
+   File /home/lizhixin/.Renviron contains invalid line(s)
+      env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+   They were ignored
+
+
+   File /home/lizhixin/.Renviron contains invalid line(s)
+      env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+   They were ignored
+
+
+   File /home/lizhixin/.Renviron contains invalid line(s)
+      env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+   They were ignored
+
+
+   File /home/lizhixin/.Renviron contains invalid line(s)
+      env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+   They were ignored
+
+
+   File /home/lizhixin/.Renviron contains invalid line(s)
+      env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+   They were ignored
+
