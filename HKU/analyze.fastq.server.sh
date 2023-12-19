@@ -8,12 +8,15 @@ cd ..
 cp read_1 read_2
 
 # get sample name
-less read_1 | cut -f10 -d'/' > sample.name
-less read_1 | cut -f9-10 -d'/' > sample.name
+cat read_1 | cut -f10 -d'/' > sample.name
+cat read_1 | cut -f9-10 -d'/' > sample.name
 vi sample.name
 # vim
 # :%s/foo/bar/g
 # %s/_1\.fastq\.gz//g
+# %s/_1\.fq\.gz//g
+# %s/_CKDL230032396-1A_22CYWGLT3_L5_1\.fq\.gz//g
+# %s/_CKDL230032395-1A_22CYWGLT3_L5_1\.fq\.gz//g
 
 # no better way
 vi read_2
