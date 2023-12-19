@@ -19,6 +19,12 @@ paste sample.name read_1 read_2 -d',' > all.sample.csv
 # test
 # cat all.sample.csv | cut -f2 -d, | xargs ls | grep such
 
+# rename sample name
+# Treatment-TF/Histone-Replicate
+# Don't use Excel to edit/save csv files, it will add special characters!!!!!!!!
+
+
+#####################################################
 cd ~/project/scRNA-seq/rawData/Oct_2018/
 mkdir analysis_TPM
 # merge all list
