@@ -4,6 +4,7 @@ cd /home/lizhixin/project/scRNA-seq/rawData/Oct_2018/NganE_scRNA_SS-180801-04a/p
 
 # get absolute path of fastq
 ls *_1.fastq.gz | sed "s:^:`pwd`/: " > ../read_1
+ls *_1.fq.gz | sed "s:^:`pwd`/: " > ../read_1
 cd ..
 cp read_1 read_2
 
@@ -16,7 +17,6 @@ vi sample.name
 # %s/_1\.fastq\.gz//g
 # %s/_1\.fq\.gz//g
 # %s/_CKDL230032396-1A_22CYWGLT3_L5_1\.fq\.gz//g
-# %s/_CKDL230032395-1A_22CYWGLT3_L5_1\.fq\.gz//g
 
 # no better way
 vi read_2
@@ -25,6 +25,7 @@ vi read_2
 # vim
 # %s/_1\./_2\./g
 # %s/_1\.fastq/_2\.fastq/g
+# %s/_1\.fq/_2\.fq/g
 paste sample.name read_1 read_2 -d',' > all.sample.csv
 # test
 # cat all.sample.csv | cut -f2 -d, | xargs ls | grep such
