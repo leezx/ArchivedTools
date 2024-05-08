@@ -1,3 +1,6 @@
+# MD5 checking
+md5sum -c MD5.txt
+
 # go to the fastq folder
 cd /home/lizhixin/project/scRNA-seq/rawData/Oct_2018/NganE_scRNA_SS-180801-04a/primary_seq
 # if no, create your own softlink
